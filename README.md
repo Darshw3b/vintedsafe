@@ -10,3 +10,8 @@ https://vintedsafe.pro
 https://www.vintedsafe.pro
 
 discord: https://discord.gg/vintedsafe
+
+#vintedsafe bot
+#vinted bot
+#vinted discord bot
+#vinted discord
